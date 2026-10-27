@@ -1,0 +1,4 @@
+Drivers/BSP/Components/iis3dwb_reg.o: \
+ C:/ST/stsw-stwinkt01/STSW-STWINKT01_V2.2.0/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.c \
+ C:/ST/stsw-stwinkt01/STSW-STWINKT01_V2.2.0/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h
+C:/ST/stsw-stwinkt01/STSW-STWINKT01_V2.2.0/Drivers/BSP/Components/iis3dwb/iis3dwb_reg.h:
